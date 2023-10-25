@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*
+    o que é id? Id é um identificador
+    Id = html é igual a # em css
+    class = html é igual a .
+    o que é class? 
+    usar class quando = para seguir a regra do w3c.
+    usar id quando = a regra do w3c diz que não se pode usar o mesmo id mais de uma vez. Mas eu posso usar o mesmo id em documentos diferentes.
+*/
+
+body{
+    background-color: rgb(201, 251, 201);
+    font-family: sans-serif;
+}
+h1{
+    color: olive;
+}
+#principal{
+    text-align: center;
+    background-color: white;
+}
+h2{
+    color: orange; 
+}
